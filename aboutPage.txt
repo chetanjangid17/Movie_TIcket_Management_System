@@ -1,0 +1,27 @@
+***********************|||About Page|||**************************
+*****************************************************************
+	
+
+-A simple movie ticket booking system written in C++
+
+	|*|Features:-
+		1.User, guest and Admin login System
+		2.User side to check and book availible show tickets
+		3.Guest mode to view availible shows
+		4.Admin side to manage the shows and view tickets booked
+		5.will add more features on the go.
+
+ 
+******************************************************************
+******************************************************************
+Press : 1>Start Page 
+	2>Exit
+...........................Enter choice---->>
+
+
+
+
+                                                   
+	
+	
+	
